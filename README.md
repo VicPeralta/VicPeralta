@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=VicPeralta)
-### Hello I'am Victor 👋
+### Hello, I'm Victor 👋
 
 I am a C++ developer currently learning Web development at [Microverse](https://github.com/microverseinc).  
 I studied electronics, but I have always loved to program.  
@@ -10,7 +10,7 @@ I have developed applications mainly for Windows using C++, C#, and Visual Basic
 Just finished HTML / CSS Module
 <img src="./module1.png" width="90%" height="auto"/>
 
-- 🔭 I’m currently working on preparing my portfolio, come back later to see it.
+- 🔭 I’m currently working on preparing my portfolio, please come back later to see it.
 - 🌱 I’m currently learning Javascript and its tools
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with preparing for job interviews
