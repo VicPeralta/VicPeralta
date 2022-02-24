@@ -7,17 +7,17 @@ I have developed applications mainly for Windows using C++, C#, and Visual Basic
 
 <img src="./pluralsight.jpg" width="100%" height="auto"/>
 
-Just finished HTML / CSS Module
+I just finished the HTML/CSS module
 <img src="./module1.png" width="90%" height="auto"/>
 
-- 🔭 I’m currently working on preparing my portfolio, please come back later to see it.
-- 🌱 I’m currently learning Javascript and its tools
-- 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with preparing for job interviews
-- 💬 Ask me about anything, I might not be able to help, but you can ask me
+- 🔭 I'm currently working on preparing my portfolio, please come back later to see it.
+- 🌱 I'm currently learning JavaScript and its tools.
+- 👯 I'm looking to collaborate on any project.
+- 🤔 I'm looking for help with preparing for job interviews.
+- 💬 Ask me about anything, I might not be able to help, but you can ask me.
 - 📫 How to reach me: victor.peralta.gomez@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love to play chess even when it gives more headaches than joys
+- 😄 Pronouns: He.
+- ⚡ Fun fact: I love to play chess even when it gives me more headaches than joys.
 
 ## Github Stats 📈
 
