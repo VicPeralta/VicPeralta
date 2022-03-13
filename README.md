@@ -7,9 +7,11 @@ I have developed applications mainly for Windows using C++, C#, and Visual Basic
 
 <img src="./pluralsight.jpg" width="100%" height="auto"/>
 
-I just finished the HTML/CSS module
-<img src="./module1.png" width="90%" height="auto"/>
-
+I just finished the HTML/CSS & JavaScript modules   
+<img src="./module1.png" width="40%" height="100%"/>
+<img src="./module2.png" width="40%" height="100%"/>   
+<img src="./html.png" width="20%" height="auto"/>
+<img src="./js.png" width="20%" height="auto"/>
 - 🔭 I'm currently working on preparing my portfolio, please come back later to see it.
 - 🌱 I'm currently learning JavaScript and its tools.
 - 👯 I'm looking to collaborate on any project.
