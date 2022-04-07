@@ -5,14 +5,14 @@ I am a C++ developer currently learning Web development at [Microverse](https://
 I studied electronics, but I have always loved to program.  
 I have developed applications mainly for Windows using C++, C#, and Visual Basic, but I am always learning new tools.
 
-<img src="./pluralsight.jpg" width="100%" height="auto"/>
+<img src="./pluralsight.jpg" width="50%" height="auto"/>
 
 I just finished the HTML/CSS & JavaScript modules   
 <img src="./module1.png" width="40%" height="100%"/>
 <img src="./module2.png" width="40%" height="100%"/>   
 <img src="./html.png" width="20%" height="auto"/>
 <img src="./javascript.png" width="20%" height="auto"/>
-- 🔭 I'm currently working on preparing my portfolio, please come back later to see it.
+- 🔭 You can check my portfolio of Web projects [here](https://vicperalta.github.io/Portfolio/)
 - 🌱 I'm currently learning JavaScript and its tools.
 - 👯 I'm looking to collaborate on any project.
 - 🤔 I'm looking for help with preparing for job interviews.
