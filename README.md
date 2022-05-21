@@ -13,11 +13,12 @@ I just finished the modules:
  - [HTML/CSS](https://www.credential.net/b268e1d1-fd45-4aa8-a2c7-8e89272c1cb7)   
  - [JavaScript](https://www.credential.net/20f30d74-d7d8-4419-8ded-569beb569753)   
  - [React/Redux](https://www.credential.net/4644426c-a0ac-42b3-bb59-29752ad56a50)    
-  
+
+<p float="left">  
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950703/" width="20%" height="auto">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857901" width="20%" height="auto">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49817976" width="20%" height="auto">
-
+</p>
 
 - 🔭 You can check my portfolio of Web projects [here](https://vicperalta.github.io/Portfolio/)
 - 🌱 I'm currently learning Ruby and its tools.
