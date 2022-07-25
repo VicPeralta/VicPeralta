@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=VicPeralta)
 ### Hello, I'm Victor 👋
 
-I am a C++ developer currently learning Web development at [Microverse](https://github.com/microverseinc).  
+I am a C++ and Full-Stack Web developer. I have just finished Web development at [Microverse](https://github.com/microverseinc).  
 I studied electronics, but I have always loved to program.  
 I have developed applications mainly for Windows using C++, C#, and Visual Basic, but I am always learning new tools.
 
@@ -15,6 +15,7 @@ I just finished the modules:
  - [React/Redux](https://www.credential.net/4644426c-a0ac-42b3-bb59-29752ad56a50)    
  - [Ruby/Databases](https://www.credential.net/d745d7cd-97fe-4ff2-99c9-ecb3e66f357f)    
  - [Ruby on Rails](https://www.credential.net/5de22cfc-5131-4735-87b9-762cf707fdf2)    
+ - [Ful-Stack Web Development](https://www.credential.net/d4ac050a-e56b-4a49-9f58-c653f00b6557)    
 
 <p float="left">  
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950703/" width="20%" alt="html/css "height="auto">
@@ -24,10 +25,11 @@ I just finished the modules:
 <p>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52034088" width="20%" alt="Ruby "height="auto">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/54063027" width="20%" alt="Rails" height="auto">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55295740" width="20%" alt="Full" height="auto">
 </p>
 
 - 🔭 You can check my portfolio of Web projects [here](https://vicperalta.github.io/Portfolio/)
-- 🌱 I'm currently learning Ruby and its tools.
+- 🌱 I'm currently preparing for job interviews.
 - 👯 I'm looking to collaborate on any project.
 - 🤔 I'm looking for help with preparing for job interviews.
 - 💬 Ask me about anything, I might not be able to help, but you can ask me.
